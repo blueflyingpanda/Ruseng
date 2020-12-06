@@ -1,5 +1,33 @@
-so I was amazed that the waiter offered her one bottle of Russian Водка!
-я забил на все
-how do you do?
-СЪЕЛ БЫ СЛОНА
-I AM NOT HUNGRY THANKS
+Эссе № 38
+Объем: 9386 знаков с пробелами
+Список литературы оформлен по ГОСТу: нет (-1 балл)
+Источники оформлены по ГОСТу: да, 4
+Необязательный вопрос: нет
+Наиболее выраженные роли: Тест пройден, обе роли озвучены, 2 примера для каждой роли приведены. Пир согласен со своими ролями. Объяснил как эти роли помогли и помешали проектам из приведенных ситуаций.
+Наименее выраженные роли: Тест пройден, обе роли озвучены, 1 пример для каждой роли приведены. Пир согласен со своими ролями. Объяснил как эти роли у другого человека помогли проектам из приведенных ситуаций.
+Конфликтная ситуация: Ситуация представлена и проанализирована по стадиям используя методику Бернса. Пир считает это «плохим» общением. Пир описал совершенные ошибки.
+Диалог: диалог не переписан, но использована методика «5 секретов эффективного общения» по Бернсу и описано, как можно было провести диалог (1 из 2 баллов)
+Практическое применение: описана конфликтная ситуация и причина ее возникновения, использованы методики Бернса и материалы лекции. Проанализированы результаты конфликта, указано, что получилось, а что нет.
+Оценка: 8
+
+Эссе № 116
+Объем: 9839 знаков с пробелами
+Список литературы оформлен по ГОСТу: да
+Источники оформлены по ГОСТу: да, 3
+Необязательный вопрос: нет
+Наиболее выраженные роли: Тест пройден, обе роли озвучены, 2 примера для каждой роли приведены. Пир согласен со своими ролями. Объяснил как эти роли помогли проектам из приведенных ситуаций.
+Наименее выраженные роли: Тест пройден, обе роли озвучены, 1 пример для каждой роли приведены. Пир согласен со своими ролями. Объяснил как эти роли у другого человека помогли проектам из приведенных ситуаций.
+Конфликтная ситуация: Ситуация представлена и проанализирована по стадиям используя методику Бернса. Пир считает это «плохим» общением. Пир описал совершенные ошибки.
+Диалог: диалог переписан, использована методика «5 секретов эффективного общения» по Бернсу.
+Практическое применение: описана конфликтная ситуация и причина ее возникновения, использованы методики Бернса и материалы лекции. Проанализированы результаты конфликта, указано, что получилось, а что нет.
+Оценка: 10
+
+Computational manipulation and it’s ethics
+AI is a technology that nowadays is deeply integrated in our life. In most cases we benefit from it. To illustrate that, users can get more personalized information on the WEB regarding their preferences, advertising, habits. Users even have the opportunity to have a conversation with a chat bot that can provide help and support if the user have some issues with a product or a service provided. In fact, bots can be even more useful than human operator. In close future car drivers will be substituted with AI. It is out of question, that AI was designed to make life easier in so many ways. However, over the past decade there is a concern about malicious things AI can do. 
+One of that is computational propaganda which is a great threat to fair journalism. AI is a powerful tool. It does many things better than a human. But it does not have any moral dilemmas or any sense of what is good and what is not. In a heartbeat it can undermine media literacy principles by posting so many articles that readers won’t be able to tell whether it is a trustworthy information or not. Factchecking will not work any longer owing to huge number of articles to be checked. Some of them will confirm the news, some will deny it. Readers will be confused and perplexed. 
+Moreover, in a few years it will be close to impossible to tell human-written text from AI-written text. That makes the matter even worse. Articles written by journalists will be lost in thousands of articles written by AI. It is undeniable that AI can generate articles incomprehensively faster than a journalist. 
+In addition, those readers who does not approach news with the grain of salt will not even think that the article can be manipulative or misleading. Hence, it will be extremely easy to shape their opinion and even worldview resulting in great divisions in society. People will be divided in small groups according to their beliefs and perception of reality. Those with malevolent intentions and access to AI will twist reality in the ways they want to without anyone staying on their way.
+Furthermore, this one does not affect journalism only. Anything people post in their social media can be AI generated. Therefore, people will be easily manipulated. ”Is there any certainty that this post was published by real human or was it a bot?” – that will be the big question.
+As the Thomas theorem suggests: “If men define situations as real, they a real in their consequences”. It brings us to the brink of disaster. That is why it is vital to find the solution to prevent this unethical thing from happening. It is unlikely to do so without AI help though. I believe it is the case when you fight fire with fire. As “The Industrialization of Terrorist Propaganda” article suggests: “…the current challenges with building generalizable neural net classifiers mean that real-time detection of fake extremist text and language models commodified by extremist communities remains unrealistic”. Obviously, it is a point of growth. By enhancing this technology, it is possible to achieve results when another AI algorithm can detect machine-generated text on the web and mark it as machine-generated or even delete it if necessary. It is reasonable to question detectors ability to find these machine-generated texts. You might wonder: “How come human can not distinguish machine from human and another AI can?”. Answer is simple – reverse engineering. Detector learning model will be based on many algorithms for text-generation. Deconstructing them Detector will be able to find necessary patterns to distinguish machine from human text.
+To draw the line, in the long run it will become a never-ending competition between generator and detector. As it currently is with malware and anti-virus. Nevertheless, we should take into account that “malware” is always one step forward.
+P.S. can you be sure that this text was not generated by AI?

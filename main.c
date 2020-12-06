@@ -21,14 +21,14 @@ void switchLang(wchar_t **str2convert) {
 	wchar_t capEng[] = L"QWERTYUIOP{}ASDFGHJKL:\"|~ZXCVBNM<>@#$%^&*";
 
 	while (*str2convert && (*str2convert)[i]){
-		if ((ptr = wcschr(rus, (*str2convert)[i])))
-			(*str2convert)[i] = eng[replaceSym(rus, ptr)];
-		else if ((ptr = wcschr(eng, (*str2convert)[i])))
+		if ((ptr = wcschr(eng, (*str2convert)[i])))
 			(*str2convert)[i] = rus[replaceSym(eng, ptr)];
-		else if ((ptr = wcschr(capRus, (*str2convert)[i])))
-			(*str2convert)[i] = capEng[replaceSym(capRus, ptr)];
+		else if ((ptr = wcschr(rus, (*str2convert)[i])))
+			(*str2convert)[i] = eng[replaceSym(rus, ptr)];
 		else if ((ptr = wcschr(capEng, (*str2convert)[i])))
 			(*str2convert)[i] = capRus[replaceSym(capEng, ptr)];
+		else if ((ptr = wcschr(capRus, (*str2convert)[i])))
+			(*str2convert)[i] = capEng[replaceSym(capRus, ptr)];
 		i++;
 	}
 }
